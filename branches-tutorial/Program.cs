@@ -79,7 +79,7 @@ namespace BranchesAndLoops
 
         static void Main(string[] args)
         {
-            // ExploreIf();
+            ExploreIf();
             TryLoops();
             Challenge();
         }
