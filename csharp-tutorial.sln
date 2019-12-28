@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TollCalculator", "TollCalcu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeleprompterConsole", "TeleprompterConsole\TeleprompterConsole.csproj", "{A2A5287C-DEA8-4C58-B07B-8DB04B2A0B48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIClient", "WebAPIClient\WebAPIClient.csproj", "{6C3BB384-F31A-459D-999D-08C0648316D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{A2A5287C-DEA8-4C58-B07B-8DB04B2A0B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2A5287C-DEA8-4C58-B07B-8DB04B2A0B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2A5287C-DEA8-4C58-B07B-8DB04B2A0B48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C3BB384-F31A-459D-999D-08C0648316D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3BB384-F31A-459D-999D-08C0648316D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3BB384-F31A-459D-999D-08C0648316D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3BB384-F31A-459D-999D-08C0648316D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
