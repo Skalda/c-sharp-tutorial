@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeleprompterConsole", "Tele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIClient", "WebAPIClient\WebAPIClient.csproj", "{6C3BB384-F31A-459D-999D-08C0648316D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqFaroShuffle", "LinqFaroShuffle\LinqFaroShuffle.csproj", "{2F9178B9-506C-4D61-98F3-65E1C4B7C8C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{6C3BB384-F31A-459D-999D-08C0648316D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C3BB384-F31A-459D-999D-08C0648316D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C3BB384-F31A-459D-999D-08C0648316D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F9178B9-506C-4D61-98F3-65E1C4B7C8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9178B9-506C-4D61-98F3-65E1C4B7C8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9178B9-506C-4D61-98F3-65E1C4B7C8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9178B9-506C-4D61-98F3-65E1C4B7C8C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
